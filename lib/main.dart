@@ -1,11 +1,8 @@
-
+//240801
 
 import 'package:academy_navi/ui/route/route_splash.dart';
-import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:kakao_flutter_sdk/kakao_flutter_sdk.dart';
-import 'package:kakao_map_plugin/kakao_map_plugin.dart';
 import 'package:sizer/sizer.dart';
 
 import 'const/value/colors.dart';
